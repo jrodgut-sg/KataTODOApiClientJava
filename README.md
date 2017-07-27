@@ -6,6 +6,7 @@
 - We are going to use [JUnit][junit] to perform assertions.
 - We are going to practice pair programming.
 
+
 ---
 
 ## Getting started
